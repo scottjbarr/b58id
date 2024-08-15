@@ -1,8 +1,8 @@
 package b58id
 
 import (
-	"github.com/btcsuite/btcutil/base58"
 	"github.com/google/uuid"
+	"github.com/mr-tron/base58"
 )
 
 // New returns a new ID.
